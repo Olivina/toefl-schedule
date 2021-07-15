@@ -170,8 +170,6 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 
 近几年考题：
 
-> <!--ptr_recording-->
->
 > ## 题
 >
 > A/D people should not engage in **activites** that they are not good at or talented.
@@ -180,7 +178,7 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 >
 > M: Disagree with the statement.
 >
-> T/E: Doing this kind of activities can actually help them improve. They can learn a lot of things in the whole process.
+> T/E: Doing this kind of activities can actually help them improve.
 >
 > A: For example, when I was 8, I signed up a singing competition xxx
 >
@@ -190,7 +188,7 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 >
 > 比赛段子：It was my first time就是不good at的东西了
 >
-> So I believe everybody can learn a lesson from engaging in things they are not good at.
+> So I believe everybody can learn a lesson in this process just like I did.
 
 > ## 题
 >
@@ -204,21 +202,25 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 >
 > 同意的答法：
 >
-> If a person is intelligent enough, then he will be able to come up with the ways to be successful, and to take the necessary actions to the success. For example, he will make friends, has some efficient working methods. 先论证，后面再放例子。班上有个同学学习特别好，上个学期参加唱歌比赛的时候很多人帮他一起practice。
+> If a person is intelligent enough, then he will be able to come up with solutions very quickly and 
+>
+> the ways to be successful, and to take the necessary actions to the success. For example, he will make friends, has some efficient working methods. 先论证，后面再放例子。班上有个同学学习特别好，上个学期参加唱歌比赛的时候很多人帮他一起practice。
+>
+> #### 最后定下来的回答：
 >
 > M: I agree with the opinion that the most important to succeed is intelligence.
 >
-> E: I mean if a person is intelligent enough, he will learn everything quickly and be able to figure out ways to work efficiently.
+> E: I mean if a person is intelligent enough, he will be able to come up with solutions very quickly and learn everything in a short time.
 >
-> A: for example, when I was in college, one of my friend was really clever. He signed up for a singing competition but it was his first time, he didn't know what to do. In order to do a good job, he asked us for help. We helped him practicing singing and breathing, helped him memorizing the lyrics.
->
-> After all, he won the first prize, which really surprised me and I got to know the significance of intelligence.
+> A: for example, when I was in college, one of my friends, who was very clever, signed up for a singing competition but it was his first time, he didn't have much experience. In order to do a good job, he asked us for help. We helped him practicing singing and breathing, helped him memorizing the lyrics, and he learned very quickly. To our surprise, he even won the first prize, which really shocked me and I got to know the significance of intelligence.
 
 延伸的问题：要不要很多enemies/要不要树敌？
 
 1. make enemies can motivate me // make me work harder. 因为有竞争者，so I work hard everyday, 
 2. 不要树敌，not good for my future development. If I unfortunately meet troubles, these enemies will obstruct me. 所以应当多交朋友 so that I can gain help whenever I fall in trouble.然后是比赛段子。
 
+> <!--ptr_recording-->
+>
 > ## 题
 >
 > Some people have emotional attachment to old items such as childhood toys or school projects while others don't. Which do you like better and why?
@@ -227,5 +229,7 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 >
 > T: because I think they're interesting and meaningful. 
 >
-> E: Since in this way, they can help me to keep track of / remind me of the past events/ help me to recall good memories in the future. I still keep an old photo of my wining the first prize in a singing competition. Whenever I see the picture, I can still recall the days that I prepared everyday like xxxx for a singing competition. It's really exciting and memorizing. 
+> E: Since in this way, they can help me to keep track of / remind me of the past events/ help me to recall good memories in the future. I still keep an old photo of my wining the first prize in a singing competition. Whenever I see the picture, I can still recall the days that I prepared everyday, spent more than 4 hours at school practicing singing and breathing, memorizing the lyrics [and stuff like that].
+>
+> xxxx for a singing competition. This experience is really exciting and means a lot to me. So I always keep them with me.
 
