@@ -6,6 +6,8 @@
 >
 > distance learning --> good
 >
+> <pfuck>test</pfuck>
+>
 > 1. --> good for study
 >    1. by allowing students gain more **knowledge**
 >    2. by cultivating student's interests
@@ -31,6 +33,8 @@
 >
 > whether students should take courses online or in classroom
 
+
+
 ### 对方观点
 
 > **<u>主语, in some people's views,</u>**
@@ -46,7 +50,7 @@
 > **due to** 
 >
 > * <u>due to the contributions to 果</u>，因为对xxx的好，95%的都用这个
-> * <u>due to 因</u>，呼应接下来两个段落的总论点
+> * <u>due to 因</u>，呼应接下来两个段落的<总论点
 > * <u>including 小论点</u>，包括xxx
 >
 > <u>Contrary to these people's opinions is my perspective that</u> online learning, which requires students to attend classes on computers and televisions, is superior, <u>due to the contributions to</u> their academic performance and personal development.
@@ -368,4 +372,112 @@ Contrary to these people's opinions is my perspective that ...,
 现象题的总结也不能说只有xxx才能xxx，而要写：
 
 > <u>To conclude, only by considering those mentioned above can we draw the conclusion that</u> young people spend more time on improving the world than in the past.
+
+## 直播课01:相关
+
+### 话题相关词
+
+光有逻辑词不够，还必须要语言相关。
+
+> 1)在所有的课程里面,最喜欢的是记单词,因为很多小游戏比如拼图、冒险岛、猫捉老鼠都能让我们感受到生活的多样性,而在英语学习中广泛阅读是很关键的。
+>
+> 2)在所有的课程里面,最喜欢的是英语课,课堂上老师会组织很多小游戏帮助我们记单词,我们还可以用英语表达自己的观点,英语课堂的娱乐性和自由度是在其他课堂上没有的。
+>
+> 前者虽然有连接词，但是词汇几乎毫无关联；后者的词汇之间都是有关联的：课程-->英语课-->记单词-->英语表达-->娱乐性自由度
+
+相关度：homework -->paper/assignment/schoolwork/problem/exercise/report/project/presentation
+
+**必须要出现话题相关词**，这样读者思维才是顺着的，才会感觉到文章清楚。
+
+同义词和反义词都是可以的：
+
+young people -->old
+
+下义词：homework --> presentation
+
+上义词：homework --> study/education
+
+重复的过程其实就是词汇呼应。环环相扣的文章是好的文章。文章是句子构成的。如何写得一句咬着一句？
+
+### 句子重心
+
+单词排布顺序不同，句子想要传达的重心不一样。
+
+> 1. Extracurricular activities are overwhelming especially **for high school students**.
+>
+> 2. High school students are overwhelmed by **extracurricular activities**.
+>
+> 3. Due to various extracurricular activities high school students are **overwhelmed**.
+>
+> 看起来重心应该是在句子后面。
+
+重心在句子主干，更在句末。一般读者都是先看前面再看后面，读者会默认前面是熟悉的信息/旧信息；后面才是新信息。因为重心在句末，下一句应该根据上一句的句末来关联：AB BC CD DE的关联法。
+
+> Due to various extracurricular activities, high school students are **overwhelmed**. **Busy with** student clubs and social events, students find it laborious to arrange their schedule effectively or distribute sufficient time to **academic learning**. **Their grades**, consequently, are seriously affected.
+
+### 独立写作
+
+3 + 5 + 5 + 3 = 16句话。不是每个段落都需要ABBC推过来。但是开头段3句要一句推着一句往下写。
+
+> ## 上次作业
+>
+> > Nowadays it is important for people to have regular family meals together.
+> > 现在很重要
+> > 1.对于健康好 
+> > 	a.身体健康，家里吃的食物干净 
+> > 	b.精神健康，家里人能聊天，忘记烦恼 
+> > 2.对于人际关系好 
+> > 	a.互相交换信息，了解彼此工作生活情况 
+> > 	b.互相帮助，提出解决问题的方法
+>
+> ### 第一段
+>
+> 可以分理出中性词：meals/diets
+>
+> > <u>**Diets**, the foundation of **life** / the objectives everyone strives for,</u>
+>
+> diets 和life就不相关，能不能换一个？**healthy lifestyle**
+>
+> > **Diets**, the foundation of healthy lifestyle, have been valued and even trigger a heated discussion over...
+>
+> over后面也要找一个能够和前面diets连上关系的词
+>
+> > **Diets**, the foundation of healthy lifestyle, have been valued and even trigger a heated discussion over whether **family meals** are still significant nowadays.
+>
+> 直接说有的人认为其他的观点会让读者觉得有点突然。所以建议用**插入语**，先连接上面的family meals，然后再提出别人的观点：
+>
+> > **Diets**, the foundation of healthy lifestyle, have been valued and even trigger a heated discussion over whether **family meals** are still significant nowadays. **Eating with family members,** in some people's views, should be valued.
+>
+> ### 插入语不是想用就用的！！
+>
+> 然后讲自己的观点的时候，如何相关呢？代词也是文章相关度的一个小指标。
+>
+> > Contrary to **these** people's view is my perspective that xxx
+>
+> these就可以连着上面的some people's views
+>
+> > **Diets**, the foundation of healthy lifestyle, have been valued and even trigger a heated discussion over whether **family meals** are still significant nowadays. **Eating with family members,** in **some people's views**, should be valued. Contrary to **these people**'s view is my perspective that it is important / crucial / vital to have meals with famil**ies**, <u>due to the contributions to</u> people's health and interpersonal relationship**s**.
+>
+> 最后的就是两个分论点（新信息）
+>
+> 可数名词不能单独存在，想要使用必须加s
+>
+> ### 第二段
+>
+> <!--<span style="color:#00FE;font-weight:bold;">Cyan Text</span>-->
+>
+> > What must be prioritized is that **(<u>family --> health</u>**) having meals with family members, instead of dining in restaurants, will contribute to people's health, both physically and mentally. (<u>**family --> physical health**</u>) To begin with, it is ==family== meals that ensure physical health for people. To be more specific, (**family --> ? --> <u>physical health</u>**) ==at home==, people can take in cleanly washed and newly prepared vegetables and meat, <u>which can guarantee people fully absorb nutrition</u>; on the other hand==,== 
+
+> 这时候有两种方法可以接：
+>
+> 1. such benefits will not be gained
+> 2. fresh **ingredients** and **well-balanced meals** will not be gained
+>
+> 哪种更相关？2更相关的原因不是因为具体，而是因为在词汇上有呼应，是话题相关词。26-27分在进行对比的时候就是指代，但是28分以上就是会把上面内容重复（不是一模一样，而要稍微改一下）
+>
+> 相关必然会重复，我们可以稍微变化一下语言形式。
+>
+> > What must be prioritized is that **(<u>family --> health</u>**) having meals with family members, instead of dining in restaurants, will contribute to people's health, both physically and mentally. (<u>**family --> physical health**</u>) To begin with, it is ==family== meals that ensure physical health for people. To be more specific, (**family --> ? --> <u>physical health</u>**) ==at home==, people can take in cleanly washed and newly prepared vegetables and meat, <u>which can guarantee people ==fully absorb nutrition==</u>; on the other hand, ==these fresh ingredients and well-balanced meals== will not be gained if people eat themselves outside. Moreover, (**family --> ? --> mental health**) by having meals with families, people will keep mental health.（概括性说一下就行，不用很复杂）(解释：**family -->forget about pressure --> mental health**) In detail, during the process of dining with families, members will discuss over  <u>pleasant memories</u>, including childhood stories, parent's wedding and family trips, **distracting** them from pressure; on the contrary, <u>such delightful moments in the past</u> will not be recalled by a person, who has a meal outside. 
+>
+> 对比的时候不要提到其他的好处，例如不要说在外面会想家，容易显得不相关。
 
