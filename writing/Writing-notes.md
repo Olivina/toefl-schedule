@@ -99,7 +99,7 @@
 
 > **To begin with**, it is well-acknowledged that educated on the internet, students can practice their communication skills.（分论点1）**<u>Specifically</u>**, only in online learning environment will students come across people from diverge backgrounds, such as classmates, instructors and school administrators, with whom they can practice their tactics of socializing; **<u>on the contrary</u>**, under no circumstances will they interact with such a variety of people if they are educated in traditional classroom settings.（解释1）
 
-> **<u>Additionally</u>**, when having a distance education program, students will become more determined.**<u>To be more specific</u>**, **the more** distance-learning courses they take on the internet, **the more** distractions they will be exposed to, stimulating them to resist temptations and foster their persistence; **<u>however</u>**, it's impossible for them to encounter these lures in traditional classrooms.
+> **<u>Additionally</u>**, when having a distance education program, students will become more determined. **<u>To be more specific</u>**, **the more** distance-learning courses they take on the internet, **the more** distractions they will be exposed to, stimulating them to resist temptations and foster their persistence; **<u>however</u>**, it's impossible for them to encounter these lures in traditional classrooms.
 
 中间段落不需要加例子。反面已经很全面了
 
@@ -468,16 +468,16 @@ young people -->old
 >
 > > What must be prioritized is that **(<u>family --> health</u>**) having meals with family members, instead of dining in restaurants, will contribute to people's health, both physically and mentally. (<u>**family --> physical health**</u>) To begin with, it is ==family== meals that ensure physical health for people. To be more specific, (**family --> ? --> <u>physical health</u>**) ==at home==, people can take in cleanly washed and newly prepared vegetables and meat, <u>which can guarantee people fully absorb nutrition</u>; on the other hand==,== 
 
-> 这时候有两种方法可以接：
+>   这时候有两种方法可以接：
 >
-> 1. such benefits will not be gained
-> 2. fresh **ingredients** and **well-balanced meals** will not be gained
+>   1.  such benefits will not be gained
+>   2.  fresh **ingredients** and **well-balanced meals** will not be gained
 >
-> 哪种更相关？2更相关的原因不是因为具体，而是因为在词汇上有呼应，是话题相关词。26-27分在进行对比的时候就是指代，但是28分以上就是会把上面内容重复（不是一模一样，而要稍微改一下）
+>   哪种更相关？2更相关的原因不是因为具体，而是因为在词汇上有呼应，是话题相关词。26-27分在进行对比的时候就是指代，但是28分以上就是会把上面内容重复（不是一模一样，而要稍微改一下）
 >
-> 相关必然会重复，我们可以稍微变化一下语言形式。
+>   相关必然会重复，我们可以稍微变化一下语言形式。
 >
-> > What must be prioritized is that **(<u>family --> health</u>**) having meals with family members, instead of dining in restaurants, will contribute to people's health, both physically and mentally. (<u>**family --> physical health**</u>) To begin with, it is ==family== meals that ensure physical health for people. To be more specific, (**family --> ? --> <u>physical health</u>**) ==at home==, people can take in cleanly washed and newly prepared vegetables and meat, <u>which can guarantee people ==fully absorb nutrition==</u>; on the other hand, ==these fresh ingredients and well-balanced meals== will not be gained if people eat themselves outside. Moreover, (**family --> ? --> mental health**) by having meals with families, people will keep mental health.（概括性说一下就行，不用很复杂）(解释：**family -->forget about pressure --> mental health**) In detail, during the process of dining with families, members will discuss over  <u>pleasant memories</u>, including childhood stories, parent's wedding and family trips, **distracting** them from pressure; on the contrary, <u>such delightful moments in the past</u> will not be recalled by a person, who has a meal outside. 
+>   >   What must be prioritized is that **(<u>family --> health</u>**) having meals with family members, instead of dining in restaurants, will contribute to people's health, both physically and mentally. (<u>**family --> physical health**</u>) To begin with, it is ==family== meals that ensure physical health for people. To be more specific, (**family --> ? --> <u>physical health</u>**) ==at home==, people can take in cleanly washed and newly prepared vegetables and meat, <u>which can guarantee people ==fully absorb nutrition==</u>; on the other hand, ==these fresh ingredients and well-balanced meals== will not be gained if people eat themselves outside. Moreover, (**family --> ? --> mental health**) by having meals with families, people will keep mental health.（概括性说一下就行，不用很复杂）(解释：**family -->forget about pressure --> mental health**) In detail, during the process of dining with families, members will discuss over  <u>pleasant memories</u>, including childhood stories, parent's wedding and family trips, **distracting** them from pressure; on the contrary, <u>such delightful moments in the past</u> will not be recalled by a person, who has a meal outside. 
 >
-> 对比的时候不要提到其他的好处，例如不要说在外面会想家，容易显得不相关。
+>   对比的时候不要提到其他的好处，例如不要说在外面会想家，容易显得不相关。
 

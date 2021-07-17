@@ -47,33 +47,33 @@ Health, the basis of a person's life and career, can be boosted by having family
 
 ## 0716
 
-> In order to adapt to the life in university and succeed, if you are a freshman, which method do you think is better:
+>   In order to adapt to the life in university and succeed, if you are a freshman, which method do you think is better:
 >
-> 1. <u>attending</u> a one-week orientation or introduction program when you are in the university campus and before classes begin.
-> 2. <u>meeting</u> regularly in your first year with students in your major who have entered the university for several years.
+>   1.  <u>attending</u> a one-week orientation or introduction program when you are in the university campus and before classes begin.
+>   2.  <u>meeting</u> regularly in your first year with students in your major who have entered the university for several years.
 >
-> 长题难找到关键词，难找到对比在什么地方。文章只能围绕着一个对比，接下来就需要破题。
+>   长题难找到关键词，难找到对比在什么地方。文章只能围绕着一个对比，接下来就需要破题。
 >
-> **meeting students in your first year --> succeed/good**
+>   **meeting students in your first year --> succeed/good**
 >
-> ==一开始不要太聚焦，否则往下写就很难==。建议写的内容例如：
+>   ==一开始不要太聚焦，否则往下写就很难==。建议写的内容例如：
 >
-> 1. 学习
-> 2. 技能
+>   1.  学习
+>   2.  技能
 >
-> 不建议写的：
+>   不建议写的：
 >
-> 1. 交朋友
-> 2. 上课
+>   1.  交朋友
+>   2.  上课
 >
-> 破题：
+>   破题：
 >
-> 1. --> academic learning
->    1. learning methods
->    2. materials
-> 2. --> extracurricular lifes
->    1. circle
->    2. skills/work experiences
+>   1.  --> academic learning
+>       1.  learning methods
+>       2.  materials
+>   2.  --> extracurricular lifes
+>       1.  circle
+>       2.  skills/work experiences
 
 ### Note
 
@@ -91,7 +91,7 @@ Health, the basis of a person's life and career, can be boosted by having family
 
 \>><u>Education, the foundation of future success</u>, has been valued and even triggers a heated discussion over **<u>how to</u>** adapt to university life and perform outstandingly.
 
-> 遇到应该怎么做的时候（rather than A/D），可以说discussion over how to xxxx
+>   遇到应该怎么做的时候（rather than A/D），可以说discussion over how to xxxx
 
 ---
 
@@ -125,7 +125,77 @@ Health, the basis of a person's life and career, can be boosted by having family
 
 ---
 
-<<To begin with, (meeting --> learning methods) during the regular meetings, senior students are willing to passing their ~~experiences~~(也不要用experience，因为前文没提到),  effective **learning methods** to freshmen.
+<<To begin with,  during the regular meetings, senior students are willing to passing their ~~experiences~~(也不要用experience，因为前文没提到),  effective **learning methods** to freshmen. 
 
-learning methods已经能够和上一句相关了。
+learning methods已经能够和上一句相关了。<u>如果不够相关的话可以加一句非谓语</u>。
+
+\>> To begin with, during mettings with freshmen, senior students will recommend their ==learning approaches== to them.
+
+---
+
+<<In detail, (**meeting --> learning methods**) in the meetings with freshmen, senior students can give advices on noting methods, scheduling methods and reviewing approach, which are effective learning methods that help freshmen easily adapt to college life;
+
+怎么提供学习方法？how不好写的话，可以切终点：教了哪些学习方法——记笔记方法/作息安排/备考方法) 
+
+\>>In detail, in the meetings, students in senior grades will suggest freshmen to search for informations online, consult teacher initiatively, and refer to sources in libraries, which are effective learning methods in university;
+
+要注意的是，这个地方**<u>千万不要往后推</u>**，例如接着写这些学习方法怎么对学习好，因为这里写的是见学长的好，如果接着写就偏题了。全文在这里最重要的就是题目，meetings
+
+---
+
+<<on the contrary, such a variety of methods and learning methods cannot be acquired simply through a one-week introduction program.
+
+可以单纯只提到methods没问题。如果想把前面都说一遍也行，更相关，字数也更多。
+
+\>>on the contrary, such approaches to study individuallly and positively will not or recommended in the one-week orientation provided by schools.
+
+要不要加原因，关于为什么one-week项目里面不能包括？解释原因不加也可以，但是怎么加的准确是个问题。反面对比一定不要增加新信息，要加个和正面解释相关的原因。
+
+---
+
+<<Moreover, (**meetings --> materials**) senior students will give freshmen their useful learning materials. To explain it further, by having regular meetings with senior students, they often receive senior student's textbooks and handouts full of notes and reasonings; in contrast, how can a freshman get these informative resources in an introductory program?
+
+不管题目怎么问，永远用第三人称！！！第三人称！！
+
+\>>Moreover, students who have been in the university for several years will lend learning materials to freshmen. To be more specific, (meet -> textbook，千万不能写学习资料的好，要写见面的好) when communicating and interacting with senior students, freshmen will have the firsthand information about textbooks, class notes and academic magazines, even receive them **<u>for free</u>**, ==which are vital resources in learning==; however, such paper resources, ==beneficial for study==, will never be obtained **<u>without a dime</u>** when a freshman chooses to attend intoructory programs.
+
+---
+
+(**<u>meet --> extracurricular</u>**)
+
+<<What should be equally discussed is that routinely meeting with senior students, rather than merely participate in an orientation, is beneficial for freshmen's extracurricular life, by extend their socializing circle and teaching them useful skills and work experiences.
+
+providing a platform是一个比较万能的理由
+
+\>>What should be equally discussing is that meetings **<u>on a regular basis</u>** ,rather than an introductory program, ==will benefit== student ==in== their extracurricular life, ==by providing a platform== for freshmen to expand friend circles and hone essential skills.
+
+---
+
+(meet --> expand friend circles)
+
+<<Initially, freshmen, meeting with those in senior grades, are easy to meet more new friends. Specifically, (meet --> communication --> from various) it's communication with senior students that brings freshmen numerous friend resources, for example those who works in particular companies, and those that research in certain subfields; on the contrary, under no circumstance they can recognize such a variety of people if they only participate the introductory program.
+
+上面的这些好处需要着重提出来。几个很好用的词：==befriend==, ==establish==, ==a wide range of==
+
+\>>Initially, freshmen, meeting with those in senior grades, will encounter more friends. Specifically, it is **communication** with senior students over internship experiences or professors that strengthen the bond with each other, enabling freshmen to ==befriend== with those with distinct personalities and hobbies. in contrast; (相反，上面提到的好处是没有的) ==such a strong relationship will not be established, nor will a wide range of friends== be encountered when a student is in an orientation program individually.
+
+---
+
+(**meet --> skills/working experience**)
+
+<<Additionally, freshmen's skills and working experiences will be cultivated if they regularily meet with senior students. To be more specific, in meeting with those students, senior students can introduce some practical skills and impart hands-on experiences useful in campus life; these experiences, however, cannot be shared in an introductory courses provided by the university.
+
+==我发现自己写作有一个问题就是主语不是很清楚；建议多观察模仿别人的文章是怎样让主语清晰明确出来的==
+
+\>>Moreover, in meetings with senior students, freshmen can practice vital skills in extracurricular life. To explain it further, at meetings, students in senior grades will share their ==working experience in internship==, and highlight the significance of diverse skills, including time and stress management skills, which promotes freshmen to develop these skills; however, (先写这些内容) such tactics vital in internship will not be cultivated in introductory programs, which recommend ==theoretical rather than practical methods==.
+
+要加个性化理由的话，那就需要在前面增加。另一种方式就是，前面用的是working experience，后面就说theoretical. 英语里面经常==取非==就行，**<u>前面说A，后面就说非A</u>**。
+
+---
+
+<<Academic learning, the basis of university life, will be improved by students meeting the senior. Extracurricular life, the foundation of student's future career, will be guided if students regularily meet with senior friends. To conclude, only by meeting with seniors, rather than attend an orientation, can freshmen reap numerous benefits.
+
+by students meeting the senior // by students' meeting the senior，没有后面's这种用法。必须是by students然后后面跟着students的修饰
+
+\>>Academic learning, the basis of university life, will be improved by students meeting the senior. Extracurricular life, ==another vital element== at college, will ==be bettered== when students have meetings with their senior friends. To conclude, only by meeting regularly with senior students can students reap the ==maximum== benefits.
 

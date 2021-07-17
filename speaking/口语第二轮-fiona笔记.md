@@ -55,6 +55,8 @@ MTE+C/A
   * roommates speak out loudly
   * get distracted easily, not be able to concentrate
 
+### surroundings
+
 > ## 题
 >
 > decorate their bedrooms or study rooms // other prefer to keep their surroundings simple and free of decorations.
@@ -68,6 +70,8 @@ MTE+C/A
 > E: in a clear and simple room, I'm more likely to concentrate on things I'm dealing with, for ex...
 >
 > C: if the room is well-decorated, then I'm more likely to get distracted by the beautiful decorations when studying, which will hurt my study efficiency.
+
+### study or play
 
 > ## 题
 >
@@ -86,6 +90,8 @@ MTE+C/A
 >
 > C: But if I chose to xxx, then I will have less time to study, which will hurt my grade.
 
+### quiet / concentrate
+
 > ## 题
 >
 > some secondary school requires that every student's schedule includes study hall, which is a free class period during the school day in which students can **do class assignments** or rest. Do you think this is a good idea?
@@ -97,6 +103,8 @@ MTE+C/A
 > E: in this way students can focus on things they're dealing with in **a very quiet place**. so they can complete very quickly.
 >
 > C: Otherwise they study in the dorm/classroom, it's noise there. 
+
+### efficienct working
 
 > ## 题
 >
@@ -118,6 +126,8 @@ MTE+C/A
 > * SLT
 >
 > C: On the contrary, if they're allowed to send personal texts and emails, they'll spend a lot of time chatting with their friends, which will hurt their work efficiency. 
+
+### misbehavior
 
 > ## 题
 >
@@ -142,6 +152,8 @@ MTE+C/A
 > So I think xxx.
 
 ## 外太空段子
+
+### hobby/choose to do
 
 题目问啥我爱啥
 
@@ -170,6 +182,8 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 
 近几年考题：
 
+### Activities
+
 > ## 题
 >
 > A/D people should not engage in **activites** that they are not good at or talented.
@@ -189,6 +203,8 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 > 比赛段子：It was my first time就是不good at的东西了
 >
 > So I believe everybody can learn a lesson in this process just like I did.
+
+### Quality
 
 > ## 题
 >
@@ -219,8 +235,8 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 1. make enemies can motivate me // make me work harder. 因为有竞争者，so I work hard everyday, 
 2. 不要树敌，not good for my future development. If I unfortunately meet troubles, these enemies will obstruct me. 所以应当多交朋友 so that I can gain help whenever I fall in trouble.然后是比赛段子。
 
-> <!--ptr_recording-->
->
+### Memory
+
 > ## 题
 >
 > Some people have emotional attachment to old items such as childhood toys or school projects while others don't. Which do you like better and why?
@@ -232,4 +248,187 @@ A: And also If I'm lucky enough, I might be able to meet aliens, which will be a
 > E: Since in this way, they can help me to keep track of / remind me of the past events/ help me to recall good memories in the future. I still keep an old photo of my wining the first prize in a singing competition. Whenever I see the picture, I can still recall the days that I prepared everyday, spent more than 4 hours at school practicing singing and breathing, memorizing the lyrics [and stuff like that].
 >
 > xxxx for a singing competition. This experience is really exciting and means a lot to me. So I always keep them with me.
+
+## 环保段子
+
+这个段子有两个版本
+
+>   Well I think one way to reduce air pollution is planting trees because trees are able to absorb carbon dioxide and release oxygen through a process known as photosynthesis. Also , trees can absorb other poisonous gases like SO2 NO and pm10, pm2.5, so the air will be much cleaner.
+>
+>   1.  But if not, there **<u>will be</u>** more and more carbon dioxide pouring into the atmosphere. So people might have to wear special masks to protect themselves and some people might get sick like getting lung cancer and something like that. Even more, some people might even die because of this.
+>   2.  Besides, I think people should choose to take public **<u>tranportation</u>** like subway or bus **<u>because in this way</u>** the number of private cars will reduce, **<u>and so</u>** there will be less carbon dioxide, sulfur dioxide and nitrogen monoxide in the atmosphere, **<u>so</u>** the air quality will improve.
+
+一切和环保相关的都可以挂这个段子
+
+### Community work
+
+>   What do you think your government should do to improve local community and make it a better place to live?
+>
+>   M: planting trees
+>
+>   T: Good for health
+>
+>   E: trees can purify the air, absorbing poisonous gases like SO2, NO, pm10 and stuff like that. Trees can absorb CO2 and release O2 through photosynthesis. 
+>
+>   C: otherwise, there will be more and more poisonous gases in the atmospher, which could cause damage to people's health, for example, people might have to wear special masks to protect themselves, some people might get sick, like lung cancer.
+
+community work or voluntary work，都可以种树
+
+### Change
+
+谈在什么方面发生了什么变化，可以靠一下。这个话题还有一个是可以谈教育。
+
+### Public Transportation
+
+>   Do you agree/disagree with the opinion that bikes will be replaced by other means of transport?
+>
+>   M: Disagree with the statement that bikes will be replaced one day by other means of transport.
+>
+>   T: Because riding bikes is good for environment. 
+>
+>   E: Since bike is one of the most environmental friendly transpotation, if everybody ride a bike to school or workplace, they will not cause air pollution and the environment will be protected.
+>
+>   C: On the contrary, if bikes are replaced, then people will have to drive cars to school and work, pouring a lot of poisonous gases into the air, and that causes the air pollution.
+>
+>   A: Besides, riding bikes is good for health, since in riding bikes, people get more exercises, which is especially necessary for modern people who is busy working everyday.
+
+Bikes将有一天被取代，你是否同意？
+
+不同意啊，Bikes is one of the most ==environmental friendly transportation==, since if everybody ride to school, they will not cause air pollution --> protect the envrionment.
+
+If not, driving cars and whatever,  ==这里怎么接？==环保段子
+
+riding bikes还有一个好处是good for health, encourage people to do more exercises, since 要死了 had no time to go to the gym, but in riding bikes, they can get some exercises
+
+### Learn from ancestors / the past
+
+过去的错误中吸取教训同理，将来不会再make the same mistake两句套话也需要提及。后面就可以举环保段子：
+
+My local community didin't pay attention to environment protection when devevloping economy, 5 years ago, like cut down a lot of trees, and built a lot of factories which polluted the air, so xxxx. Now the government are doing things to try to protect the envrionment like planting trees, 套段子。
+
+#### 17年3月11
+
+<!--ptr_recording-->
+
+>   If there is only one green land left, the government should build houses, 要不要建？不建就成环保题了or keep it?
+>
+>   M: Well, I think the government should not build houses on the last green land.
+>
+>   T: Because it's good for 
+
+#### 18年3月10:
+
+Local government wants to build new factories in the city, which could help to create more job opportunities but pollute the environment. Do you think government should build it or not?显然不建，因为会polluted the environment, which is more urgent than creating job opportunities. Because 一旦污染会怎样怎样，先回答后果。
+
+#### 18.12.8T1/17.7.10.T2
+
+Some supermarket proposes a policy which people have to bring reusable bags when go shopping or else they have to pay some money to buy plastic bags. Talk about the A/D about this policy.
+
+题干问A/D，回答的时候都要提及。A一般就是convenient，sometimes people forget to bring their own bags, if xxx then they can buy the stuff they want and use plastic bags to bring them home.
+
+好坏的回答时间理论上是1:1，实际上一个多一点一个少一点都没关系，关键是两者都cover。
+
+D: bad for environment, cause pollution like air pollution and soil pollution, which can put people's health at risk. 
+
+还有一道题和环保有一点点关系。
+
+#### 国家有严重的traffic problem如何解决？
+
+traffic jam/problem --> encourage people to ride bikes / walk instead of driving cars, since in this way we can reduce the number of private cars, the problem can be taken care of / relieved. 
+
+还可以用一个点：the government could start a ride-sharing program, where people who live in the same area can form groups, with each group drive to campus or work places in just one car.后面信息不变, ==in this way, there will be fewer private cars so this problem can be taking care of / relieved / the number of private cars will reduce==.
+
+## 论文立即写
+
+>   Start writing papers right away or wait until deadline
+>
+>   ### 段子
+>
+>   Well, I prefer to start writing all my papers right away because this is good for me. 
+>
+>   I mean, in this way, I could have more time to prepare like going to the library to read some books or getting online to collect some data or ask the professors when I have some problems. So I am able to finish them on time. But if I wait until the last minute, I might not be able to get fully prepared because of the limited time, which could result in a hasty work and hurt my grades.
+
+### deadline写
+
+图书馆路线实际上是说deadline。
+
+M: I prefer to wait until deadline to start my working.
+
+T: Because deadline is the primary productive force.
+
+E: I mean, because of the limited time, I can **work more efficiently** and **more focus** on my task, for example, I will go to the library and find a quiet place to fully concentrate on my work. I am more prone to do a good job in this way. 
+
+C: On the contrary, if I start working very early, due to the plenty of time, I might be working casually and easily get distracted by other things, like movies, exihibitions, music concerts and stuff like that, which usually distract me and even make me forget about the task/ assignment, and this could result in a late submission.
+
+### Life(make mistakes; learn from the past)
+
+### Assignment Related
+
+paper VS presentation/ take tests; long essays/short ones
+
+M: paper
+
+T: good for my grade
+
+C: but if I choose to do a presentation, I might get nervous, so I might forget everything that I prepared, so it will hurt my grades.
+
+take tests同理，紧张忘掉everything。
+
+老师应该让学生做一些activities，group work/presentation来完成assignment，还是written form的assignment？(in order for them to learn course material well)
+
+选written form，因为这个过程中会干什么（查东西，找老师讨论，论文三件套）, which could communicate a lot with professors, gain a better understanding of the topic.
+
+C: but if I take tests, I might do cramming临时抱佛脚, memorize a lot of things in a short period but after that they will forget them all, which is not good for their memory.
+
+一篇长论文/很多短论文？
+
+长论文：可以准备这准备那
+
+写很多小的：some might fail to finish because of the limited time
+
+17.2一道题
+
+the students are asked to write a final project about the famous historical city which you are located in, which one will you choose to finish your project?完成论文的方式有三个：
+
+1.  make videos about the buildings 
+2.  interview older people or
+3.  do research and write **papers**.
+
+那当然选paper，because it's easy for me, 你只需要xxxxx段子过来。
+
+但是，（其他的否定），make videos or interview are pretty hard for me, because for one thing, I'm not good at using camera and stuff to make videos and also I'm not good at talking with other people.
+
+论文特好写，其他的都说自己不行就行了。
+
+17.2的另一道题
+
+Some people are graded by their performance when they're participating in group discussions in a class while others thinks that they're graded only by written paperwork, which do you prefer and why?
+
+有些学生认为课堂参与互动都应该计入打分，有些学生就认为written work就可以了。我们当然选论文啊，因为可以reflect their academic performance, that's because in writing a paper, students need to xxxxxx. Therefore, if they can get a high grade, they surely have a better academic performance.
+
+On the other hand, about class performance, some students might be too shy to perform themselves, which is unfair to them.
+
+18.4.15
+
+some professors ask students to take in-class exams while other professors like to ask their students to take the test at home and hand in the test paper in the next day. What are the advantages and disadvantages of taking home exams?
+
+特点：可以带回家/带回宿舍，论文方向
+
+One of the advantages for students to take the test home is good for students' academic learning.
+
+I mean, in this way, they are able to 论文三件套, 
+
+But if they take in-class exam, they might get very nervous and forget everything they prepared, which may result in a failure in the exam.
+
+### 生活类
+
+是否要learn from the past?当然要啊，because this is good, since people are able to learn a lesson from the past, so they will not make the same mistake in the future.
+
+for example, 写论文的时候，Once I wait until the last minute did I start writing my paper. After that, I 很快完成。
+
+18.3.11 parent should allow their kids to make mistakes
+
+同理，应该啊，only by allowing kids to make mistake will kids really know about the mistake by themselves and thus correct the mistake themselves, so that they will not make the same mistake in the future. 什么时候我时间紧迫论文完不成，我妈妈也没有管我，didn't stop me, and I failed the course. I came to realize the fault so since then I start writing paper right away
+
+Make mistake也可以用图书馆大声喧哗的段子。都属于家长allow犯错再告诉他。
 
