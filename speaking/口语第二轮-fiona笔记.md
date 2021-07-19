@@ -314,7 +314,9 @@ My local community didin't pay attention to environment protection when devevlop
 >
 >   M: Well, I think the government should not build houses on the last green land.
 >
->   T: Because it's good for 
+>   T: Because saving the green land is more urgent.
+>
+>   E: I mean, 
 
 #### 18年3月10:
 
