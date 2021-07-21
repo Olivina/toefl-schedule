@@ -308,15 +308,17 @@ My local community didin't pay attention to environment protection when devevlop
 
 #### 17年3月11
 
-<!--ptr_recording-->
-
 >   If there is only one green land left, the government should build houses, 要不要建？不建就成环保题了or keep it?
 >
->   M: Well, I think the government should not build houses on the last green land.
+>   M: Well, if there is <u>only one</u> green land left in our city, I think the government should not build <u>houses</u> on it.
 >
->   T: Because saving the green land is more urgent.
+>   T: Because it's good for public health.
 >
->   E: I mean, 
+>   <u>saving</u> the green land and protecting the environment is more urgent.
+>
+>   E: I mean, once my local community didn't <u>pay attention</u> to environment protection when developing economy 5 years ago, they cut down a lot of trees, built a lot of houses and factories and stuff like that. The consequence was, they damaged the environment, and a lot of people got sick, even got lung cancer because of this.
+>
+>   A: After that, I think everybody should learn a lesson from the past so they will not make the same mistake in the future. This time I think the government should not build houses on it because saving the environment and improving the public health is more urgent.
 
 #### 18年3月10:
 
@@ -332,15 +334,29 @@ Some supermarket proposes a policy which people have to bring reusable bags when
 
 D: bad for environment, cause pollution like air pollution and soil pollution, which can put people's health at risk. 
 
+>   Well, for one thing, the advantage of using a plastic bag is convenient, I mean, sometimes people may forget to bring their own reusable bags, if the supermarkets can provide them with plastic bags, they can buy whatever they want in the supermarket and use the plastic bags to bring them home.
+>
+>   On the other hand, the disadvantage of using a plastic bag is that it's bad for the environment. Since it can cause pollution like air pollution, if you burn it on the air; and soil pollution, if you bury it into the soil, both of them can put people's health at rist.
+
 还有一道题和环保有一点点关系。
 
 #### 国家有严重的traffic problem如何解决？
+
+
 
 traffic jam/problem --> encourage people to ride bikes / walk instead of driving cars, since in this way we can reduce the number of private cars, the problem can be taken care of / relieved. 
 
 还可以用一个点：the government could start a ride-sharing program, where people who live in the same area can form groups, with each group drive to campus or work places in just one car.后面信息不变, ==in this way, there will be fewer private cars so this problem can be taking care of / relieved / the number of private cars will reduce==.
 
-## 论文立即写
+这里关键是要加一个for example
+
+>   Well, I think one way to deal with the serious problem of traffic jam is that our government can start a ride-sharing program, where people who live in the same area can form groups, with each group drive to campus or work places in just one car.
+>
+>   For example, if my classmate and I live in the same district, then we can form group, one person become the driver in turn while other people become the passengers and just take a ride.
+>
+>   In this way, I think the number of private cars on road will reduce and the traffic jam problem will relieve.
+
+## 论文三件套
 
 >   Start writing papers right away or wait until deadline
 >
@@ -348,7 +364,7 @@ traffic jam/problem --> encourage people to ride bikes / walk instead of driving
 >
 >   Well, I prefer to start writing all my papers right away because this is good for me. 
 >
->   I mean, in this way, I could have more time to prepare like going to the library to read some books or getting online to collect some data or ask the professors when I have some problems. So I am able to finish them on time. But if I wait until the last minute, I might not be able to get fully prepared because of the limited time, which could result in a hasty work and hurt my grades.
+>   I mean, in this way, I could have more time to prepare like going to the library to read some books or getting online to collect some data or ask the professors when I have some problems. So I am able to finish them on time. On the contrary, if I wait until the last minute, I might not be able to get fully prepared because of the limited time, which could result in a hasty work and hurt my grades.
 
 ### deadline写
 
@@ -366,13 +382,17 @@ C: On the contrary, if I start working very early, due to the plenty of time, I 
 
 ### Assignment Related
 
-paper VS presentation/ take tests; long essays/short ones
 
-M: paper
 
-T: good for my grade
+#### paper VS presentation/ take tests; long essays/short ones
 
-C: but if I choose to do a presentation, I might get nervous, so I might forget everything that I prepared, so it will hurt my grades.
+>   M: paperwork
+>
+>   T: good for my grade
+>
+>   E: If I can do the paperwork, then I can get myself fully prepared, like xxxx
+>
+>   C: but if I choose to do a presentation, I might get nervous in front of a large crowd, in this situation I might forget everything that I prepared, resulting in a bad performance and it will hurt my grades.
 
 take tests同理，紧张忘掉everything。
 
@@ -380,7 +400,13 @@ take tests同理，紧张忘掉everything。
 
 选written form，因为这个过程中会干什么（查东西，找老师讨论，论文三件套）, which could communicate a lot with professors, gain a better understanding of the topic.
 
-C: but if I take tests, I might do cramming临时抱佛脚, memorize a lot of things in a short period but after that they will forget them all, which is not good for their memory.
+>   M: paperwork instead of take tests
+>
+>   T: good for my academic learning
+>
+>   E: I mean, xxxx
+>
+>   C: but if I take tests, I might do cramming the night before,临时抱佛脚, memorize a lot of things in a short period but after that I will forget them all, which is not good for my academic learning.
 
 一篇长论文/很多短论文？
 
@@ -388,7 +414,7 @@ C: but if I take tests, I might do cramming临时抱佛脚, memorize a lot of th
 
 写很多小的：some might fail to finish because of the limited time
 
-17.2一道题
+#### 17.2一道题
 
 the students are asked to write a final project about the famous historical city which you are located in, which one will you choose to finish your project?完成论文的方式有三个：
 
@@ -396,9 +422,11 @@ the students are asked to write a final project about the famous historical city
 2.  interview older people or
 3.  do research and write **papers**.
 
-那当然选paper，because it's easy for me, 你只需要xxxxx段子过来。
-
-但是，（其他的否定），make videos or interview are pretty hard for me, because for one thing, I'm not good at using camera and stuff to make videos and also I'm not good at talking with other people.
+>   那当然选paper，because it's easy for me, 你只需要xxxxx段子过来。
+>
+>   I mean, in this process, I can get myself fully prepared.
+>
+>   But on the contrary, make videos or interview are pretty hard for me, because for one thing, I'm not good at using camera and stuff to make videos and also I'm not good at talking with other people.
 
 论文特好写，其他的都说自己不行就行了。
 
@@ -424,13 +452,70 @@ But if they take in-class exam, they might get very nervous and forget everythin
 
 ### 生活类
 
+
+
 是否要learn from the past?当然要啊，because this is good, since people are able to learn a lesson from the past, so they will not make the same mistake in the future.
 
 for example, 写论文的时候，Once I wait until the last minute did I start writing my paper. After that, I 很快完成。
 
-18.3.11 parent should allow their kids to make mistakes
+#### 18.3.11 parent should allow their kids to make mistakes
+
+<!--ptr_recording-->
 
 同理，应该啊，only by allowing kids to make mistake will kids really know about the mistake by themselves and thus correct the mistake themselves, so that they will not make the same mistake in the future. 什么时候我时间紧迫论文完不成，我妈妈也没有管我，didn't stop me, and I failed the course. I came to realize the fault so since then I start writing paper right away
 
 Make mistake也可以用图书馆大声喧哗的段子。都属于家长allow犯错再告诉他。
+
+## 打工段子
+
+Share a house with other ppl or rent an apartment alone
+
+单人多人？单人-->自己独住对学习好，图书馆段子，focus on，但是多人可能会开party唱歌。
+
+单人-->要死了，回家可以安静的睡个觉，多人不利于休息。多人也可以利于要死了-->回到家之后开party可以放松，但是一个人会lonely。
+
+和别人在一起更加容易解决问题：事业线/看狗之类的。
+
+>   Well, I prefer to share a house with other people because it's gonna save me a lot of money. You konw, I'm just a first year student in college and I don't have much money. I have to do some part time jobs to earn some money to cover my tuition and stuff【这里似乎可以补充一个花钱三件套】. Therefore, If I could share a house with other people, I could split the rent with them which will be good. But if I rent an apartment alone, I'd have to [cover all the apartment rent myself, which means I have to] spend more time doint part time jobs to make more money which I think will make me feel tired and definitely will affect my study as well.
+
+和金钱相关的everything都可以用。
+
+#### electronic devices: buy them right away or wait for some time?
+
+当然要等啊，没有钱，我是学生。因此我要是等一下的话，price will drop。可是如果马上买，it will be very expensive, for example, brand new iphone will cost me 700 dollars or more, so I'd have to spend more time doing part time jobs.
+
+#### fix myself or send it to the repair shop
+
+自己修省钱，fix it by myself would cost me nothing. repair shop非常规，it costs hundreds of dollars to fix one small furniture, in order to afford which I had have to do extra part-time jobs, which xxxx
+
+#### scholarship 给谁
+
+1.  students who live poor
+2.  students who have better academic performances
+
+显然要给穷一点的学生, because it's good for their study.
+
+I mean, they do not have enough money to afford their tuition fees and daily use, so they have to do part-time jobs to cover their expenses, which makes them tired everyday and have hardly had time to study, and that affect their academic performances. If they can acquire that money, then they be able to spend less time taking part time jobs, and will be able to spend more time on their studies, which is good for them.
+
+#### Audio books or paper books
+
+which is cheaper?
+
+in the long terms, paperbooks is cheaper. Because audio books could break in the future, like change the battery, fix the screen, update its system and stuff like that, which is also an enormous expense in the future. And I'm only a student with no income, these kinds of expense will add to my economic burden. 
+
+#### famous university with higher tuition or less famous one with scholarship?
+
+谈钱就去scholarship, because it can save money. I mean I'm a student who have no income, and xxxx. If I can obtain the scholarship, then I am able to spend more time on study. On the contrary, if I have to pay higher tuition, then I have to spend more time doing part-time jobs, 
+
+#### Supermarket plastic policy
+
+好处也可以说save money, bring reusable bags. But if I need to pay plastic bags each time, then in the long run it will cost a lot of money.
+
+你有一个朋友，到你们国家来学习担心钱，你建议他做什么/你是否建议他打工。你也可以不建议他打工，因为会影响学习，占用很多时间，让他很累等等。打工可以赚钱但是也很累，累就会影响学习占用时间。钱相关的都可以套。
+
+## 足球段子
+
+kids who take part in team sports have better social abilities.
+
+>   Well, I agree with the statement that kids who play team sports can actually have better social skills.
 
